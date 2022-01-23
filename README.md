@@ -1,16 +1,15 @@
+# Export Pandas Dataframes to new/existing Excel workbooks
 
-# Export multiple Pandas Dataframe to Excel using XlsxWriter
-
-In this video, I'll show you how to quickly export multiple pandas dataframes in a single excel document using the XlsxWriter package
+In this tutorial, I'll show you how to export a Pandas dataframe to a new Excel workbook, or to an existing Excel workbook. Learn how to save your data in an easy-to-use format that you can take anywhere.
 
 ## Video Tutorial
 
-[![YouTube Video](https://img.youtube.com/vi/fU6AjhfgGQs/0.jpg)](https://youtu.be/fU6AjhfgGQs)
+[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
 
 ## Requirements
 ```
-XlsxWriter
-Pandas
+xlwings==0.25.3
+pandas==1.3.5
 ```
 
 ## Author
