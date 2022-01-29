@@ -1,10 +1,10 @@
-# Export Pandas Dataframes to new/existing Excel workbooks
+# Export Pandas DataFrames to a new/existing Excel workbook
 
 In this tutorial, I'll show you how to export a Pandas dataframe to a new Excel workbook, or to an existing Excel workbook. Learn how to save your data in an easy-to-use format that you can take anywhere.
 
 ## Video Tutorial
 
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/DroafWQXqDw/0.jpg)](https://youtu.be/DroafWQXqDw)
 
 ## Requirements
 ```
